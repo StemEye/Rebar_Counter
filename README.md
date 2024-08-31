@@ -1,5 +1,5 @@
 # Rebar Counter Project
-
+![Rebar Counter Model](demo.png)
 ## Introduction
 In this project, we developed a Rebar Counter model to accurately count rebars (reinforcement bars) in images using machine learning and integrated it into a mobile application. The project employed TensorFlow Lite (TFLite) Model Maker for model training and utilized a Flutter-based mobile application for deployment. Firebase was used for database management, while the TFLite library facilitated model integration.
 
