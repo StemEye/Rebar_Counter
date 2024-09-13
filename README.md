@@ -87,13 +87,11 @@ This guide provides step-by-step instructions to run a Flutter project from GitH
 
 4. **Connect Your Device**
    - Connect your Android or iOS device to your system using a USB cable.
-
 5. **Enable Developer Mode on Your Device**
    - For Android:
      - Go to `Settings`.
      - Tap on `About Phone`.
      - Tap `Build Number` seven times until developer mode is enabled.
-
 6. **Enable USB Debugging**
    - For Android:
      - Go to `Settings`.
